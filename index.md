@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Current Projects and Contributions
 
-You can use the [editor on GitHub](https://github.com/JRGTH/jrgth.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+   [BastilleBSD Enhancements](https://github.com/BastilleBSD/bastille)
+   [Webmin Module: Bastille Manager (For FreeBSD)](https://sourceforge.net/projects/bastille-manager-webmin-module/)
+   [Webmin Module: NUT Monitor (For FreeBSD)](https://sourceforge.net/projects/nut-monitor-webmin-module/)
+   [Webmin Module: Plex Media Server](https://sourceforge.net/projects/simple-plex-webmin-module/)
+   [Webmin Module: Boot Environments Manager (For FreeBSD)](https://github.com/JRGTH/bemanager-webmin-module)
+   [Webmin Module: ZFS Manager + Boot Environments Manager (Fork for FreeBSD)](https://github.com/JRGTH/zfsmanager)
+   [XigmaNAS Installer Backend Contributions](https://sourceforge.net/p/xigmanas/code/commit_browser)
+   [XigmaNAS RootOnZFS Development/Installation](https://www.xigmanas.com/forums/viewtopic.php?f=15&t=13650#p84568)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# DIY Misc Projects & Hobbies
 
-### Markdown
+   [2-Way Floor-Standing High Efficiency Speakers(New)](https://photos.google.com/share/AF1QipOx6mI8nM3Eqx2rWQdPx-agf7xn8A0IFwqBMwm3MwbpqC1QB6pYZwkxIifaEKvXlQ?key=YUZFRV9oYW5Edy1zdk9BMUItRjFib3ljaTZzVW9B)
+   [3-Way Floor-standing Speakers](https://photos.google.com/share/AF1QipNu16a-J2mh5EVMf_WlQ7U75Dgqu5lczbH3NeS4pktqr_yxtaGARa9beLMJuyjl7A?key=amllZ3BaVFp5TmtBVzNRakZuazNlVkowdHB2dW9R1)
+   [2-Way Floor-standing/Bookshelf Speakers(Mod)](https://photos.google.com/share/AF1QipNZDbsNKXyM-qo9EgtZHQmWYO97LB9Z-7dapPNgBxqh2Kp2t-X3n4vgDAZJ1EvVEQ?key=N204bUpPcExCcUR1c2R5ZjBSVEZncEFYV0VBS2RB)
+   [15" Down-firing Sealed Subwoofer](https://photos.google.com/share/AF1QipPqB7iYFvSM4ipyKFvK_WzzWzZP23vzOvjnT9pcmam4kNGns8sGui7jCADSC5Orhg?key=VXVRQWtqQU5YSEplUVBJQVBqWmJVVFkyMHJrWlRn)
+   [18" Down-firing Sealed Subwoofer(Mod)](https://photos.google.com/share/AF1QipPIk_0m01eOz_kUH93HJhMyFbSOmiXhBpH8zufcVM8zmeel8TrO7dDH_f6eiRx1AQ?key=UDJhMVdtYzZBdDVJTFZSQk8yUTJmcWZaaFJvYkN3)
+   [2U File/Media Home Server(Legacy)](https://photos.app.goo.gl/Lrg81jeczUVZAbBd9)
+   [Ofna Ultra LX-One Nitro RC Buggy](https://www.rcscrapyard.net/ofna-ultra-lx-one-nitro.htm)
+   [3CX3000A7 HF RF Amplifier(Legacy)](https://jrgth.github.io/jrgth.io/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Wise Words
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JRGTH/jrgth.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"The happiest people are those who invested their time in others. The unhappiest people are those who wonder how the world is going to make them happy" - John Maxwell
