@@ -20,6 +20,4 @@
 *   [3CX3000A7 HF RF Amplifier(Legacy)](https://jrgth.github.io/jrgth.io/)
 
 
-## Wise Words
-
 "The happiest people are those who invested their time in others. The unhappiest people are those who wonder how the world is going to make them happy" - John Maxwell
