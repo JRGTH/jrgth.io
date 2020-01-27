@@ -1,13 +1,12 @@
 # Current Projects and Contributions
 
-*   [BastilleBSD Enhancements](https://github.com/BastilleBSD/bastille)
-*   [Webmin Module: Bastille Manager (For FreeBSD)](https://sourceforge.net/projects/bastille-manager-webmin-module/)
-*   [Webmin Module: NUT Monitor (For FreeBSD)](https://sourceforge.net/projects/nut-monitor-webmin-module/)
+*   [BastilleBSD Container Manager](https://github.com/BastilleBSD/bastille)
+*   [Webmin Module: Bastille Manager (For FreeBSD)](https://github.com/JRGTH/bastille-manager-webmin-module)
 *   [Webmin Module: Plex Media Server](https://sourceforge.net/projects/simple-plex-webmin-module/)
-*   [Webmin Module: Boot Environments Manager (For FreeBSD)](https://github.com/JRGTH/bemanager-webmin-module)
 *   [Webmin Module: ZFS Manager + Boot Environments Manager (Fork for FreeBSD)](https://github.com/JRGTH/zfsmanager)
 *   [XigmaNAS Installer Backend Contributions](https://sourceforge.net/p/xigmanas/code/commit_browser)
 *   [XigmaNAS RootOnZFS Development/Installation](https://www.xigmanas.com/forums/viewtopic.php?f=15&t=13650#p84568)
+*   [XigmaNAS Bastille Manager Extension](https://github.com/JRGTH/xigmanas-bastille-extension)
 
 # DIY Misc Projects & Hobbies
 
