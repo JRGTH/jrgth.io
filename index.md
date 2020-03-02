@@ -1,7 +1,8 @@
 # Current Projects and Contributions
 
 *   [BastilleBSD Container Manager](https://github.com/BastilleBSD/bastille)
-*   [Webmin Module: Bastille Manager (For FreeBSD)](https://github.com/JRGTH/bastille-manager-webmin-module)
+*   [Webmin Module: Bastille Manager For FreeBSD](https://github.com/JRGTH/bastille-manager-webmin-module)
+*   [Nginx Webmin Module For FreeBSD](https://sourceforge.net/projects/nginx-webmin-module/?source=navbar)
 *   [Webmin Module: Plex Media Server](https://sourceforge.net/projects/simple-plex-webmin-module/)
 *   [Webmin Module: ZFS Manager + Boot Environments Manager (Fork for FreeBSD)](https://github.com/JRGTH/zfsmanager)
 *   [XigmaNAS Installer Backend Contributions](https://sourceforge.net/p/xigmanas/code/commit_browser)
