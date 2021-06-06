@@ -4,10 +4,12 @@
 *   [Bastille Manager Webmin Module For FreeBSD](https://github.com/JRGTH/bastille-manager-webmin-module)
 *   [Nginx Webmin Module For FreeBSD](https://sourceforge.net/projects/nginx-webmin-module/?source=navbar)
 *   [Plex Media Server Webmin Module](https://sourceforge.net/projects/simple-plex-webmin-module/)
+*   [Emby Server Webmin Module](https://sourceforge.net/projects/simple-emby-webmin-module/)
 *   [ZFS Manager + Boot Environments Manager Webmin Module (Fork for FreeBSD)](https://github.com/JRGTH/zfsmanager)
 *   [XigmaNAS Installer Backend Contributions](https://sourceforge.net/p/xigmanas/code/commit_browser)
-*   [XigmaNAS RootOnZFS Development/Installation](https://www.xigmanas.com/forums/viewtopic.php?f=15&t=13650#p84568)
+*   [XigmaNAS RootOnZFS Development/Installation](https://www.xigmanas.com/forums/viewtopic.php?f=11&t=54)
 *   [XigmaNAS Bastille Manager Extension](https://github.com/JRGTH/xigmanas-bastille-extension)
+*   [Bemanager, a FreeBSD utility to manage, backup and restore Boot Environments](https://github.com/JRGTH/bemanager)
 
 # DIY Misc Projects & Hobbies
 
