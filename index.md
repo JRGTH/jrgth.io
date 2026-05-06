@@ -13,15 +13,16 @@
 
 # DIY Misc Projects & Hobbies
 
+*   [2-Way Custom Professional Passive Crossovers(New)](https://photos.google.com/share/AF1QipOPcGZXTFM3H7FclfX_CcquzQX3nYEjo0G6BYsVsnoDdiPttpjE-vy1k2aq5FEBKA?key=X1JpRHZOR0ZiWWpmYlVWZVJ1OUFMdjBOMzdpWGpR)
 *   [2-Way Floor-Standing High Efficiency Speakers(New)](https://photos.google.com/share/AF1QipOx6mI8nM3Eqx2rWQdPx-agf7xn8A0IFwqBMwm3MwbpqC1QB6pYZwkxIifaEKvXlQ?key=YUZFRV9oYW5Edy1zdk9BMUItRjFib3ljaTZzVW9B)
-*   [3-Way Floor-standing Speakers](https://photos.google.com/share/AF1QipNu16a-J2mh5EVMf_WlQ7U75Dgqu5lczbH3NeS4pktqr_yxtaGARa9beLMJuyjl7A?key=amllZ3BaVFp5TmtBVzNRakZuazNlVkowdHB2dW9R1)
-*   [2-Way Floor-standing/Bookshelf Speakers(Mod)](https://photos.google.com/share/AF1QipNZDbsNKXyM-qo9EgtZHQmWYO97LB9Z-7dapPNgBxqh2Kp2t-X3n4vgDAZJ1EvVEQ?key=N204bUpPcExCcUR1c2R5ZjBSVEZncEFYV0VBS2RB)
-*   [15" Down-firing Sealed Subwoofer](https://photos.google.com/share/AF1QipPqB7iYFvSM4ipyKFvK_WzzWzZP23vzOvjnT9pcmam4kNGns8sGui7jCADSC5Orhg?key=VXVRQWtqQU5YSEplUVBJQVBqWmJVVFkyMHJrWlRn)
+*   [3-Way Floor-standing Speakers(Legacy)](https://photos.google.com/share/AF1QipNu16a-J2mh5EVMf_WlQ7U75Dgqu5lczbH3NeS4pktqr_yxtaGARa9beLMJuyjl7A?key=amllZ3BaVFp5TmtBVzNRakZuazNlVkowdHB2dW9R)
+*   [2-Way Floor-standing/Bookshelf Speakers(Legacy)](https://photos.google.com/share/AF1QipNZDbsNKXyM-qo9EgtZHQmWYO97LB9Z-7dapPNgBxqh2Kp2t-X3n4vgDAZJ1EvVEQ?key=N204bUpPcExCcUR1c2R5ZjBSVEZncEFYV0VBS2RB)
+*   [15" Down-firing Sealed Subwoofer(Legacy)](https://photos.google.com/share/AF1QipPqB7iYFvSM4ipyKFvK_WzzWzZP23vzOvjnT9pcmam4kNGns8sGui7jCADSC5Orhg?key=VXVRQWtqQU5YSEplUVBJQVBqWmJVVFkyMHJrWlRn)
 *   [18" Down-firing Sealed Subwoofer(Mod)](https://photos.google.com/share/AF1QipPIk_0m01eOz_kUH93HJhMyFbSOmiXhBpH8zufcVM8zmeel8TrO7dDH_f6eiRx1AQ?key=UDJhMVdtYzZBdDVJTFZSQk8yUTJmcWZaaFJvYkN3)
 *   [21" Hi-Power Ported Subwoofers Project](https://photos.app.goo.gl/D5qoq4uaXtefwLG7A)
 *   [2U File/Media Home Server(Legacy)](https://photos.app.goo.gl/Lrg81jeczUVZAbBd9)
-*   [Ofna Ultra LX-One Nitro RC Buggy](https://www.rcscrapyard.net/ofna-ultra-lx-one-nitro.htm)
-*   [Comet GP-9 Mod for extra power handling, reliability and stability](https://photos.app.goo.gl/Jc3w8PSPHnSEp2XM7)
+*   [Ofna Ultra LX-One Nitro RC Buggy(Legacy)](https://www.rcscrapyard.net/ofna-ultra-lx-one-nitro.htm)
+*   [Comet GP-9 Mod for extra power handling, reliability and stability(Legacy)](https://photos.app.goo.gl/Jc3w8PSPHnSEp2XM7)
 *   [3CX3000A7 HF RF Amplifier(Legacy)](https://jrgth.github.io/jrgth.io/)
 
 
