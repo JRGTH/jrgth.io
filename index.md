@@ -1,20 +1,23 @@
-# Current Projects and Contributions
+# Current and Past Projects and Contributions
 
 *   [BastilleBSD Container Manager](https://github.com/BastilleBSD/bastille)
-*   [Bastille Manager Webmin Module For FreeBSD](https://github.com/JRGTH/bastille-manager-webmin-module)
+*   [Bastille Manager Webmin Module](https://sourceforge.net/projects/bastille-manager-webmin-module/)
 *   [Nginx Webmin Module For FreeBSD](https://sourceforge.net/projects/nginx-webmin-module/?source=navbar)
 *   [Plex Media Server Webmin Module](https://sourceforge.net/projects/simple-plex-webmin-module/)
-*   [Emby Server Webmin Module](https://sourceforge.net/projects/simple-emby-webmin-module/)
-*   [ZFS Manager + Boot Environments Manager Webmin Module (Fork for FreeBSD)](https://github.com/JRGTH/zfsmanager)
+*   [Bhyve Manager Webmin Module](https://sourceforge.net/projects/bhyve-manager-webmin-module/)
+*   [MQTT Manager Webmin Module](https://sourceforge.net/projects/mqtt-monitor-webmin-module/)
+*   [NUT Monitor Webmin Module](https://sourceforge.net/projects/nut-monitor-webmin-module/)
+*   [ZFS Manager + Boot Environments Manager Webmin Module (Fork for FreeBSD, Legacy)](https://github.com/JRGTH/zfsmanager)
 *   [XigmaNAS Installer Backend Contributions](https://sourceforge.net/p/xigmanas/code/commit_browser)
 *   [XigmaNAS RootOnZFS Development/Installation](https://www.xigmanas.com/forums/viewtopic.php?f=11&t=54)
 *   [XigmaNAS Bastille Manager Extension](https://github.com/JRGTH/xigmanas-bastille-extension)
-*   [Bemanager, a FreeBSD utility to manage, backup and restore Boot Environments](https://github.com/JRGTH/bemanager)
+*   [Bemanager, a FreeBSD utility to manage, backup and restore Boot Environments(Legacy)](https://github.com/JRGTH/bemanager)
 
 # DIY Misc Projects & Hobbies
 
 *   [2-Way Custom Professional Passive Crossovers(New)](https://photos.google.com/share/AF1QipOPcGZXTFM3H7FclfX_CcquzQX3nYEjo0G6BYsVsnoDdiPttpjE-vy1k2aq5FEBKA?key=X1JpRHZOR0ZiWWpmYlVWZVJ1OUFMdjBOMzdpWGpR)
 *   [2-Way Floor-Standing High Efficiency Speakers(New)](https://photos.google.com/share/AF1QipOx6mI8nM3Eqx2rWQdPx-agf7xn8A0IFwqBMwm3MwbpqC1QB6pYZwkxIifaEKvXlQ?key=YUZFRV9oYW5Edy1zdk9BMUItRjFib3ljaTZzVW9B)
+*   [2-Way Bookshelf High Efficiency Speakers(New)](https://photos.google.com/share/AF1QipOk14UnrznAW2LA0IKyD8B0ylPVzkiCZYeqX5yvFmqtWtMVu5hI14G2Kxht-FHt0w?key=UXVVSGNPSkNYTk5vWHd0dnN1anl6cUFPVThVSEln)
 *   [3-Way Floor-standing Speakers(Legacy)](https://photos.google.com/share/AF1QipNu16a-J2mh5EVMf_WlQ7U75Dgqu5lczbH3NeS4pktqr_yxtaGARa9beLMJuyjl7A?key=amllZ3BaVFp5TmtBVzNRakZuazNlVkowdHB2dW9R)
 *   [2-Way Floor-standing/Bookshelf Speakers(Legacy)](https://photos.google.com/share/AF1QipNZDbsNKXyM-qo9EgtZHQmWYO97LB9Z-7dapPNgBxqh2Kp2t-X3n4vgDAZJ1EvVEQ?key=N204bUpPcExCcUR1c2R5ZjBSVEZncEFYV0VBS2RB)
 *   [15" Down-firing Sealed Subwoofer(Legacy)](https://photos.google.com/share/AF1QipPqB7iYFvSM4ipyKFvK_WzzWzZP23vzOvjnT9pcmam4kNGns8sGui7jCADSC5Orhg?key=VXVRQWtqQU5YSEplUVBJQVBqWmJVVFkyMHJrWlRn)
